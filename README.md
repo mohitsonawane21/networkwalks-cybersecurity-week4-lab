@@ -2,7 +2,7 @@
 
 **Milestone 4: Final Assessment Report**  
 **Assessment target:** Mediroza General Hospital training target  
-**Prepared by:** Phenyo Bareki  
+**Prepared by:** Mohit Sonawane  
 **Programme:** NetworkWalks Cybersecurity Programme  
 **Assessment window:** Five days, as specified in the exercise brief  
 **Assessment approach:** Black-box web application assessment  
